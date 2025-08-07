@@ -1,0 +1,8 @@
+/* globals.css */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400');
+body {
+  background-color: #223046; /* Replace with your bg-steam color */
+  font-family: 'Inter', sans-serif;
+  color: #fff; /* text-white */
+  /* soft blue‑gray */
+}
